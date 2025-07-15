@@ -1,0 +1,1 @@
+**Conditions:** independent samples, at least ordinal, continuous distribution.

@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Velocity",
+  "textFontFamily": "CMU Serif",
+  "theme": "moonstone",
+  "baseFontSize": 22,
+  "enabledCssSnippets": [
+    "img",
+    "export"
+  ],
+  "interfaceFontFamily": "Segoe UI"
+}

@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#M",
+      "color": {
+        "a": 1,
+        "rgb": 16737894
+      }
+    },
+    {
+      "query": "tag:#MO",
+      "color": {
+        "a": 1,
+        "rgb": 16043101
+      }
+    },
+    {
+      "query": "tag:#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 16185474
+      }
+    },
+    {
+      "query": "tag:#math",
+      "color": {
+        "a": 1,
+        "rgb": 12560639
+      }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 9914826
+      }
+    },
+    {
+      "query": "tag:#computer_science",
+      "color": {
+        "a": 1,
+        "rgb": 5431485
+      }
+    },
+    {
+      "query": "tag:#english",
+      "color": {
+        "a": 1,
+        "rgb": 12118015
+      }
+    },
+    {
+      "query": "tag:#french_B",
+      "color": {
+        "a": 1,
+        "rgb": 15015827
+      }
+    },
+    {
+      "query": "tag:#economy",
+      "color": {
+        "a": 1,
+        "rgb": 14048419
+      }
+    },
+    {
+      "query": "tag:#TOK",
+      "color": {
+        "a": 1,
+        "rgb": 3599134
+      }
+    },
+    {
+      "query": "tag:#CAS",
+      "color": {
+        "a": 1,
+        "rgb": 8882055
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.02219101123595,
+  "lineSizeMultiplier": 1.00887096774194,
+  "collapse-forces": false,
+  "centerStrength": 0.6171875,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.04511901837246863,
+  "close": true
+}

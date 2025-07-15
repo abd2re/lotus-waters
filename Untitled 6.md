@@ -1,0 +1,4 @@
+- I had my first technical interview every today with one of the engineers and it went really well and I want to you and Bloomberg
+- I'm really interested in Bloomberg and would love working with them because they have values that I love and is the financial industry which I am very interested in
+- If your team needs any information for any decision you need to make I remain available
+- I look forward from you

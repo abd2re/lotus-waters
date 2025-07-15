@@ -1,0 +1,87 @@
+`Mes cours v4 - McGil BA`
+```
+Prereq: Had to be taken before course
+Coreq: Had to be during or before course
+Fall: Available in fall
+Winter: Available in winter
+Both: Available in fall and winter
+```
+
+## *IB exemptions (33 credits)*
+*[COMP 202 Foundations of Programming (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-202) (3 credits exemption)*
+*[MATH 140 Calculus 1 (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-140)*
+
+# Major in Software Engineering (36 credits)
+- [COMP 206 Introduction to Software Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-206) (Both)
+- [COMP 250 Introduction to Computer Science (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-250). Prereq: [MATH 140](https://www.mcgill.ca/study/2024-2025/courses/math-140) , [COMP 202](https://www.mcgill.ca/study/2024-2025/courses/comp-202). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+- [MATH 240 Discrete Structures (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-240). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+- [COMP 251 Algorithms and Data Structures (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-251). Prereq: [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250), [MATH 240](https://www.mcgill.ca/study/2024-2025/courses/math-240) (Both)
+- [COMP 273 Introduction to Computer Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-273). Coreq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206) (Both)
+- [COMP 302 Programming Languages and Paradigms (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-302). Prereq: [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250), [MATH 240](https://www.mcgill.ca/study/2024-2025/courses/math-240) (Both)
+- [COMP 303 Software Design (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-303). Prereq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206), [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250) (Fall)
+- *(Replaced [MATH 223](https://www.mcgill.ca/study/2024-2025/courses/math-223) which is in Stats Minor)* [COMP 310 Operating Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-310). Prereq: [COMP 273](https://www.mcgill.ca/study/2024-2025/courses/comp-273) (Both) 
+- [COMP 421 Database Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-421). Prereq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206), [COMP 251](https://www.mcgill.ca/study/2024-2025/courses/comp-251), [COMP 302](https://www.mcgill.ca/study/2024-2025/courses/comp-302) (Winter)
+- [ECSE 326 Software Requirements Engineering (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/ecse-326). Prereq: [COMP 303](https://www.mcgill.ca/study/2024-2025/courses/comp-303) (Fall)
+- [ECSE 437 Software Delivery (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/ecse-437). Prereq: [COMP 303](https://www.mcgill.ca/study/2024-2025/courses/comp-303) (Fall)
+- [COMP 307 Principles of Web Development (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-307). Prereq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206). Coreq: [COMP 303](http://www.mcgill.ca/study/2024-2025/courses/COMP-303) (Fall)
+
+# Minor in Statistics (18 credits)
+[MATH 204 Principles of Statistics 2 (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-204). Prereq: [MATH 203](http://www.mcgill.ca/study/2024-2025/courses/MATH-203) (Winter)
+[MATH 222 Calculus 3 (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-222). Prereq: [MATH 141](https://www.mcgill.ca/study/2024-2025/courses/math-141). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+[MATH 223 Linear Algebra (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-223). Prereq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+[MATH 323 Probability (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-323). Prereq: [MATH 141](https://www.mcgill.ca/study/2024-2025/courses/math-141) (Both)
+[MATH 324 Statistics (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-324). Prereq: [MATH 323](https://www.mcgill.ca/study/2024-2025/courses/math-323) (Both)
+[MATH 423 Applied Regression (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-423). Prereq: [MATH 324](https://www.mcgill.ca/study/2024-2025/courses/math-324), [MATH 223](https://www.mcgill.ca/study/2024-2025/courses/math-223) (Fall)
+
+# Electives (36 credits)
+[MATH 133 Linear Algebra and Geometry (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+[MATH 141 Calculus 2 (4 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-141). Prereq: [MATH 140](https://www.mcgill.ca/study/2024-2025/courses/math-140) (Both)
+[MATH 203 Principles of Statistics 1 (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-203) (Both)
+[COMP 321 Programming Challenges (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-321). Prereq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206). Coreq: [COMP 251](https://www.mcgill.ca/study/2024-2025/courses/comp-251) (Fall)
+[COMP 322 Introduction to C++ (1 credit)](https://www.mcgill.ca/study/2024-2025/courses/comp-322). Prereq: [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250), [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206) (Winter)
+[COMP 360 Algorithm Design (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-360). Prereq: [COMP 251](https://www.mcgill.ca/study/2024-2025/courses/comp-251), [MATH 240](https://www.mcgill.ca/study/2024-2025/courses/math-240) (Both)
+[COMP 409 Concurrent Programming (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-409). Prereq: [COMP 251](https://www.mcgill.ca/study/2024-2025/courses/comp-251), [COMP 302](https://www.mcgill.ca/study/2024-2025/courses/comp-302), [COMP 310](https://www.mcgill.ca/study/2024-2025/courses/comp-310) (Winter)
+[COMP 512 Distributed Systems (4 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-512). Prereq: [COMP 310](https://www.mcgill.ca/study/2024-2025/courses/comp-310), [COMP 251](https://www.mcgill.ca/study/2024-2025/courses/comp-251) (Fall)
+[COMP 520 Compiler Design (4 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-520). Prereq: [COMP 273](https://www.mcgill.ca/study/2024-2025/courses/comp-273), [COMP 302](https://www.mcgill.ca/study/2024-2025/courses/comp-302) (Winter)
+[COMP 535 Computer Networks 1 (4 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-535). Prereq: [COMP 310](https://www.mcgill.ca/study/2024-2025/courses/comp-310) (Winter)
+[COMP 551 Applied Machine Learning (4 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-551). Prereq: [MATH 323](https://www.mcgill.ca/study/2024-2025/courses/math-323), [COMP 202](https://www.mcgill.ca/study/2024-2025/courses/comp-202), [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133), [MATH 222](https://www.mcgill.ca/study/2024-2025/courses/math-222) (Both)
+
+Total: 90 credits
+
+---
+Fall 1 (12 credits)
+[COMP 206 Introduction to Software Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-206) (Both)
+[COMP 250 Introduction to Computer Science (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-250). Prereq: [MATH 140](https://www.mcgill.ca/study/2024-2025/courses/math-140) , [COMP 202](https://www.mcgill.ca/study/2024-2025/courses/comp-202). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+[MATH 133 Linear Algebra and Geometry (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+[MATH 203 Principles of Statistics 1 (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-203) (Both)
+
+Winter 1 (13 credits)
+[COMP 273 Introduction to Computer Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-273). Coreq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206) (Both)
+[MATH 141 Calculus 2 (4 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-141). Prereq: [MATH 140](https://www.mcgill.ca/study/2024-2025/courses/math-140) (Both)
+[MATH 240 Discrete Structures (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-240). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+
+Fall 2 (12 credits)
+[COMP 251 Algorithms and Data Structures (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-251). Prereq: [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250), [MATH 240](https://www.mcgill.ca/study/2024-2025/courses/math-240) (Both)
+[COMP 302 Programming Languages and Paradigms (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-302). Prereq: [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250), [MATH 240](https://www.mcgill.ca/study/2024-2025/courses/math-240) (Both)
+[COMP 303 Software Design (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-303). Prereq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206), [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250) (Fall)
+[MATH 222 Calculus 3 (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-222). Prereq: [MATH 141](https://www.mcgill.ca/study/2024-2025/courses/math-141). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+
+--- 
+
+Fall 1 (12 credits)
+[COMP 206 Introduction to Software Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-206) (Both)
+[COMP 250 Introduction to Computer Science (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-250). Prereq: [MATH 140](https://www.mcgill.ca/study/2024-2025/courses/math-140) , [COMP 202](https://www.mcgill.ca/study/2024-2025/courses/comp-202). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+[MATH 133 Linear Algebra and Geometry (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+[MATH 240 Discrete Structures (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-240). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+
+Winter 1 (13 credits)
+[COMP 273 Introduction to Computer Systems (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-273). Coreq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206) (Both)
+[COMP 251 Algorithms and Data Structures (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-251). Prereq: [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250), [MATH 240](https://www.mcgill.ca/study/2024-2025/courses/math-240) (Both)
+[MATH 141 Calculus 2 (4 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-141). Prereq: [MATH 140](https://www.mcgill.ca/study/2024-2025/courses/math-140) (Both)
+[MATH 223 Linear Algebra (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-223). Prereq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
+
+
+Fall 2 (12 credits)
+[COMP 302 Programming Languages and Paradigms (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-302). Prereq: [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250), [MATH 240](https://www.mcgill.ca/study/2024-2025/courses/math-240) (Both)
+[COMP 303 Software Design (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/comp-303). Prereq: [COMP 206](https://www.mcgill.ca/study/2024-2025/courses/comp-206), [COMP 250](https://www.mcgill.ca/study/2024-2025/courses/comp-250) (Fall)
+[MATH 222 Calculus 3 (3 credits)](https://www.mcgill.ca/study/2024-2025/courses/math-222). Prereq: [MATH 141](https://www.mcgill.ca/study/2024-2025/courses/math-141). Coreq: [MATH 133](https://www.mcgill.ca/study/2024-2025/courses/math-133) (Both)
