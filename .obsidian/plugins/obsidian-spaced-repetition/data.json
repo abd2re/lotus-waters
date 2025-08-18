@@ -38,7 +38,7 @@
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
     "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 100,
+    "flashcardWidthPercentage": 50,
     "flashcardEasyText": "Easy",
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",

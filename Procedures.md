@@ -55,4 +55,4 @@ All MIPS registers
 ?
 ![[Pasted image 20250212172645.png]]
 ![[Pasted image 20250212172706.png]]
-<!--SR:!2025-05-16,41,190-->
+<!--SR:!2025-10-01,78,190-->

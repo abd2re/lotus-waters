@@ -72,4 +72,4 @@ Floating point multiplication  steps:
 IEEE Has Four Rounding Modes
 ?
 ![[Pasted image 20250303140815.png]]
-<!--SR:!2025-04-28,34,249-->
+<!--SR:!2025-10-08,85,249-->

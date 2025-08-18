@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "_MATH223",
-      "path": "_MATH223.md"
-    },
-    {
       "basename": "__courses",
       "path": "__courses.md"
+    },
+    {
+      "basename": "planning5",
+      "path": "planning5.md"
+    },
+    {
+      "basename": "Graph theory",
+      "path": "Graph theory.md"
+    },
+    {
+      "basename": "_MATH240",
+      "path": "_MATH240.md"
+    },
+    {
+      "basename": "_COMP273",
+      "path": "_COMP273.md"
     },
     {
       "basename": "__Tasks",
       "path": "__Tasks.md"
     },
     {
-      "basename": "planning5",
-      "path": "planning5.md"
+      "basename": "Heaps",
+      "path": "Heaps.md"
+    },
+    {
+      "basename": "_COMP250",
+      "path": "_COMP250.md"
+    },
+    {
+      "basename": "Binary Trees & Binary Search Trees",
+      "path": "Binary Trees & Binary Search Trees.md"
+    },
+    {
+      "basename": "Object, type conversion, and polymorphism",
+      "path": "Object, type conversion, and polymorphism.md"
+    },
+    {
+      "basename": "Stacks and Queues",
+      "path": "Stacks and Queues.md"
+    },
+    {
+      "basename": "_MATH133",
+      "path": "_MATH133.md"
+    },
+    {
+      "basename": "Systems of Linear Equations",
+      "path": "Systems of Linear Equations.md"
+    },
+    {
+      "basename": "_MATH223",
+      "path": "_MATH223.md"
+    },
+    {
+      "basename": "Vector spaces",
+      "path": "Vector spaces.md"
+    },
+    {
+      "basename": "Complex numbers",
+      "path": "Complex numbers.md"
     },
     {
       "basename": "Eigenvalues and diagonalization",
@@ -29,24 +77,8 @@
       "path": "Linear transformations.md"
     },
     {
-      "basename": "Vector spaces",
-      "path": "Vector spaces.md"
-    },
-    {
-      "basename": "Complex numbers",
-      "path": "Complex numbers.md"
-    },
-    {
-      "basename": "Graph theory",
-      "path": "Graph theory.md"
-    },
-    {
       "basename": "Recurrence relations",
       "path": "Recurrence relations.md"
-    },
-    {
-      "basename": "_MATH240",
-      "path": "_MATH240.md"
     },
     {
       "basename": "Analysis of variance",
@@ -83,10 +115,6 @@
     {
       "basename": "Untitled 20",
       "path": "Untitled 20.md"
-    },
-    {
-      "basename": "_COMP273",
-      "path": "_COMP273.md"
     },
     {
       "basename": "Control",
@@ -171,34 +199,6 @@
     {
       "basename": "Untitled 18",
       "path": "Untitled 18.md"
-    },
-    {
-      "basename": "Untitled 19",
-      "path": "Untitled 19.md"
-    },
-    {
-      "basename": "Vector space",
-      "path": "Vector space.md"
-    },
-    {
-      "basename": "Untitled 17",
-      "path": "Untitled 17.md"
-    },
-    {
-      "basename": "Assignment 6 Q3 MATH223",
-      "path": "Assignment 6 Q3 MATH223.md"
-    },
-    {
-      "basename": "Assignment 6 Q2 MATH223",
-      "path": "Assignment 6 Q2 MATH223.md"
-    },
-    {
-      "basename": "Determinants",
-      "path": "Determinants.md"
-    },
-    {
-      "basename": "_MATH133",
-      "path": "_MATH133.md"
     }
   ],
   "omittedPaths": [],

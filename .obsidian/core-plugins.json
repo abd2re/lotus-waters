@@ -28,5 +28,7 @@
   "publish": true,
   "sync": true,
   "starred": true,
-  "webviewer": true
+  "webviewer": true,
+  "footnotes": false,
+  "bases": true
 }
