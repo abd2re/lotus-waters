@@ -5,8 +5,16 @@
       "path": "__courses.md"
     },
     {
-      "basename": "planning5",
-      "path": "planning5.md"
+      "basename": "Emulation, Virtualization, Containers",
+      "path": "Emulation, Virtualization, Containers.md"
+    },
+    {
+      "basename": "_COMP206",
+      "path": "_COMP206.md"
+    },
+    {
+      "basename": "Information Security",
+      "path": "Information Security.md"
     },
     {
       "basename": "Graph theory",
@@ -17,20 +25,56 @@
       "path": "_MATH240.md"
     },
     {
+      "basename": "Recurrence relations",
+      "path": "Recurrence relations.md"
+    },
+    {
+      "basename": "Set theory",
+      "path": "Set theory.md"
+    },
+    {
+      "basename": "Pipelined execution",
+      "path": "Pipelined execution.md"
+    },
+    {
       "basename": "_COMP273",
       "path": "_COMP273.md"
+    },
+    {
+      "basename": "MIPS Floating point",
+      "path": "MIPS Floating point.md"
+    },
+    {
+      "basename": "Decisions",
+      "path": "Decisions.md"
+    },
+    {
+      "basename": "_COMP250",
+      "path": "_COMP250.md"
+    },
+    {
+      "basename": "Packages, fields and modifiers",
+      "path": "Packages, fields and modifiers.md"
+    },
+    {
+      "basename": "Divisibility and prime numbers",
+      "path": "Divisibility and prime numbers.md"
     },
     {
       "basename": "__Tasks",
       "path": "__Tasks.md"
     },
     {
-      "basename": "Heaps",
-      "path": "Heaps.md"
+      "basename": "_MATH204",
+      "path": "_MATH204.md"
     },
     {
-      "basename": "_COMP250",
-      "path": "_COMP250.md"
+      "basename": "planning5",
+      "path": "planning5.md"
+    },
+    {
+      "basename": "Heaps",
+      "path": "Heaps.md"
     },
     {
       "basename": "Binary Trees & Binary Search Trees",
@@ -77,10 +121,6 @@
       "path": "Linear transformations.md"
     },
     {
-      "basename": "Recurrence relations",
-      "path": "Recurrence relations.md"
-    },
-    {
       "basename": "Analysis of variance",
       "path": "Analysis of variance.md"
     },
@@ -105,10 +145,6 @@
       "path": "Multiple linear regression.md"
     },
     {
-      "basename": "_MATH204",
-      "path": "_MATH204.md"
-    },
-    {
       "basename": "Untitled 21",
       "path": "Untitled 21.md"
     },
@@ -119,10 +155,6 @@
     {
       "basename": "Control",
       "path": "Control.md"
-    },
-    {
-      "basename": "Pipelined execution",
-      "path": "Pipelined execution.md"
     },
     {
       "basename": "Datapath",
@@ -145,10 +177,6 @@
       "path": "Linker.md"
     },
     {
-      "basename": "MIPS Floating point",
-      "path": "MIPS Floating point.md"
-    },
-    {
       "basename": "Instruction representation",
       "path": "Instruction representation.md"
     },
@@ -161,10 +189,6 @@
       "path": "Procedures.md"
     },
     {
-      "basename": "Decisions",
-      "path": "Decisions.md"
-    },
-    {
       "basename": "MIPS arithmetic",
       "path": "MIPS arithmetic.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Registers and memory",
       "path": "Registers and memory.md"
-    },
-    {
-      "basename": "Circuits",
-      "path": "Circuits.md"
-    },
-    {
-      "basename": "Boolean algebra",
-      "path": "Boolean algebra.md"
-    },
-    {
-      "basename": "Floating point",
-      "path": "Floating point.md"
-    },
-    {
-      "basename": "Number representations",
-      "path": "Number representations.md"
-    },
-    {
-      "basename": "Introduction to computer systems",
-      "path": "Introduction to computer systems.md"
-    },
-    {
-      "basename": "Untitled 18",
-      "path": "Untitled 18.md"
     }
   ],
   "omittedPaths": [],
