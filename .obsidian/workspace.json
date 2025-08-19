@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5eb1a718b993fa",
+        "id": "fc54e4938cad25fb",
         "type": "split",
         "children": [
           {
@@ -59,14 +59,14 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
-            "id": "e00a5087611f8f21",
+            "id": "8e2d0dc7a2be3f67",
             "type": "tabs",
             "children": [
               {
-                "id": "1f9ad4aeb7d27fc2",
+                "id": "8ba088d47fbfe420",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -100,7 +100,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe - git  add ."
                 }
               }
             ]
@@ -210,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graph theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Graph theory"
             }
           },
           {
@@ -228,11 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Procedures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Procedures"
             }
           },
           {
@@ -356,10 +358,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1f9ad4aeb7d27fc2",
+  "active": "8ba088d47fbfe420",
   "lastOpenFiles": [
-    "Procedures.md",
     "Graph theory.md",
+    "Procedures.md",
     "_COMP273.md",
     "Control.md",
     "IO interrupts.md",
@@ -403,6 +405,4 @@
     "assets/Introduction to computer systems",
     "assets/Simple linear regression",
     "assets/Statistical analysis",
-    "assets/Vector geometry"
-  ]
-}
+    "assets/Vector ge

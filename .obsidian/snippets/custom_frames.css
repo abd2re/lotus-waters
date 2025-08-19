@@ -1,0 +1,24 @@
+/* 🌙 Dark mode */
+.theme-dark .view-content.custom-frames-view iframe {
+    filter: invert(1) contrast(0.9) brightness(1.1);
+    mix-blend-mode: screen;
+}
+
+/* ☀️ Light mode */
+.theme-light .view-content.custom-frames-view iframe {
+    mix-blend-mode: darken;
+}
+
+/* 🌙 Dark mode */
+.theme-dark .custom-frames-view webview {
+    mix-blend-mode: screen;
+    filter: invert(1);
+    background: transparent;
+}
+
+/* ☀️ Light mode */
+.theme-light .custom-frames-view webview {
+    mix-blend-mode: darken;
+    filter: none; /* keep Todoist normal */
+    background: transparent;
+}

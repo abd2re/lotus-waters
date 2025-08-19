@@ -1,0 +1,14 @@
+/* 🌙 Dark mode */
+.theme-dark .terminal .xterm-viewport,
+.theme-dark .terminal .xterm-screen canvas {
+    mix-blend-mode: screen;
+    background: transparent !important;
+}
+
+/* ☀️ Light mode */
+.theme-light .terminal .xterm-viewport,
+.theme-light .terminal .xterm-screen canvas {
+    mix-blend-mode: darken;
+    filter: invert(1);
+    background: transparent !important;
+}

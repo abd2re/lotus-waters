@@ -2,11 +2,13 @@
   "accentColor": "",
   "cssTheme": "Tom's Theme",
   "textFontFamily": "CMU Serif",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "img",
-    "export"
+    "export",
+    "custom_frames",
+    "terminal"
   ],
   "interfaceFontFamily": "Fira Code"
 }
