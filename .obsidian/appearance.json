@@ -3,7 +3,7 @@
   "cssTheme": "Tom's Theme",
   "textFontFamily": "CMU Serif",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "enabledCssSnippets": [
     "img",
     "export"

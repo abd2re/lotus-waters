@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5d56b39890f3baec",
+        "id": "0e5eb1a718b993fa",
         "type": "split",
         "children": [
           {
@@ -59,14 +59,14 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
-            "id": "ebb63b6ec2e56a2d",
+            "id": "e00a5087611f8f21",
             "type": "tabs",
             "children": [
               {
-                "id": "f1b9ef812082d500",
+                "id": "1f9ad4aeb7d27fc2",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -356,10 +356,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f1b9ef812082d500",
+  "active": "1f9ad4aeb7d27fc2",
   "lastOpenFiles": [
-    "Graph theory.md",
     "Procedures.md",
+    "Graph theory.md",
     "_COMP273.md",
     "Control.md",
     "IO interrupts.md",
