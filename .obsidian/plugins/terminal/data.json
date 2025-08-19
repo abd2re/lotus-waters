@@ -14,14 +14,14 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
-    "9222c433-a7b8-4401-9a90-1d2b6204aa4c": {
+    "6912c2bc-f3a3-4df0-b68a-ff82716f843c": {
       "args": [],
       "executable": "C:\\Windows\\System32\\cmd.exe",
       "name": "",
       "platforms": {
         "win32": true
       },
-      "pythonExecutable": "",
+      "pythonExecutable": "python3",
       "restoreHistory": false,
       "successExitCodes": [
         "0",

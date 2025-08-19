@@ -4,6 +4,13 @@ img[alt*="center"] {
     margin-right: auto;
 }
 
-.markdown-preview-view img {
-    mix-blend-mode: darken;  /* or 'multiply', 'overlay', etc. */
+/* 🌙 Dark mode: invert image colors, then blend with background */
+.theme-dark .markdown-preview-view img {
+    filter: invert(1);
+    mix-blend-mode: screen;
+}
+
+/* ☀️ Light mode: no inversion, but use darken blending */
+.theme-light .markdown-preview-view img {
+    mix-blend-mode: darken;
 }

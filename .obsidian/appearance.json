@@ -1,12 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "Velocity",
+  "cssTheme": "Tom's Theme",
   "textFontFamily": "CMU Serif",
-  "theme": "moonstone",
-  "baseFontSize": 22,
+  "theme": "obsidian",
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "img",
     "export"
   ],
-  "interfaceFontFamily": "Segoe UI"
+  "interfaceFontFamily": "Fira Code"
 }

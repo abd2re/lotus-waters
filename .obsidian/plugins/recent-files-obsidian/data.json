@@ -5,6 +5,22 @@
       "path": "Graph theory.md"
     },
     {
+      "basename": "Procedures",
+      "path": "Procedures.md"
+    },
+    {
+      "basename": "_COMP273",
+      "path": "_COMP273.md"
+    },
+    {
+      "basename": "Control",
+      "path": "Control.md"
+    },
+    {
+      "basename": "IO interrupts",
+      "path": "IO interrupts.md"
+    },
+    {
       "basename": "_MATH240",
       "path": "_MATH240.md"
     },
@@ -15,18 +31,6 @@
     {
       "basename": "Virtual memory",
       "path": "Virtual memory.md"
-    },
-    {
-      "basename": "_COMP273",
-      "path": "_COMP273.md"
-    },
-    {
-      "basename": "Procedures",
-      "path": "Procedures.md"
-    },
-    {
-      "basename": "IO interrupts",
-      "path": "IO interrupts.md"
     },
     {
       "basename": "_MATH223",
@@ -159,10 +163,6 @@
     {
       "basename": "Multiple linear regression",
       "path": "Multiple linear regression.md"
-    },
-    {
-      "basename": "Control",
-      "path": "Control.md"
     },
     {
       "basename": "Datapath",
