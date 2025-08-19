@@ -5,12 +5,32 @@
       "path": "__courses.md"
     },
     {
+      "basename": "_COMP273",
+      "path": "_COMP273.md"
+    },
+    {
+      "basename": "Virtual memory",
+      "path": "Virtual memory.md"
+    },
+    {
+      "basename": "Pipelined execution",
+      "path": "Pipelined execution.md"
+    },
+    {
+      "basename": "Introduction to computer systems",
+      "path": "Introduction to computer systems.md"
+    },
+    {
       "basename": "Emulation, Virtualization, Containers",
       "path": "Emulation, Virtualization, Containers.md"
     },
     {
       "basename": "_COMP206",
       "path": "_COMP206.md"
+    },
+    {
+      "basename": "Links",
+      "path": "Links.md"
     },
     {
       "basename": "Information Security",
@@ -31,14 +51,6 @@
     {
       "basename": "Set theory",
       "path": "Set theory.md"
-    },
-    {
-      "basename": "Pipelined execution",
-      "path": "Pipelined execution.md"
-    },
-    {
-      "basename": "_COMP273",
-      "path": "_COMP273.md"
     },
     {
       "basename": "MIPS Floating point",
@@ -129,10 +141,6 @@
       "path": "Simple linear regression.md"
     },
     {
-      "basename": "Untitled 22",
-      "path": "Untitled 22.md"
-    },
-    {
       "basename": "Categorical data analysis",
       "path": "Categorical data analysis.md"
     },
@@ -145,24 +153,12 @@
       "path": "Multiple linear regression.md"
     },
     {
-      "basename": "Untitled 21",
-      "path": "Untitled 21.md"
-    },
-    {
-      "basename": "Untitled 20",
-      "path": "Untitled 20.md"
-    },
-    {
       "basename": "Control",
       "path": "Control.md"
     },
     {
       "basename": "Datapath",
       "path": "Datapath.md"
-    },
-    {
-      "basename": "Virtual memory",
-      "path": "Virtual memory.md"
     },
     {
       "basename": "Cache",
@@ -175,30 +171,6 @@
     {
       "basename": "Linker",
       "path": "Linker.md"
-    },
-    {
-      "basename": "Instruction representation",
-      "path": "Instruction representation.md"
-    },
-    {
-      "basename": "Logical and shift operations",
-      "path": "Logical and shift operations.md"
-    },
-    {
-      "basename": "Procedures",
-      "path": "Procedures.md"
-    },
-    {
-      "basename": "MIPS arithmetic",
-      "path": "MIPS arithmetic.md"
-    },
-    {
-      "basename": "Multiplication, division and FSMs",
-      "path": "Multiplication, division and FSMs.md"
-    },
-    {
-      "basename": "Registers and memory",
-      "path": "Registers and memory.md"
     }
   ],
   "omittedPaths": [],
