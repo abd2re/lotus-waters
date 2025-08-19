@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Graph theory",
+      "path": "Graph theory.md"
+    },
+    {
+      "basename": "_MATH240",
+      "path": "_MATH240.md"
+    },
+    {
       "basename": "__courses",
       "path": "__courses.md"
+    },
+    {
+      "basename": "Virtual memory",
+      "path": "Virtual memory.md"
     },
     {
       "basename": "_COMP273",
       "path": "_COMP273.md"
     },
     {
-      "basename": "Virtual memory",
-      "path": "Virtual memory.md"
+      "basename": "Procedures",
+      "path": "Procedures.md"
+    },
+    {
+      "basename": "IO interrupts",
+      "path": "IO interrupts.md"
+    },
+    {
+      "basename": "_MATH223",
+      "path": "_MATH223.md"
+    },
+    {
+      "basename": "Eigenvalues and diagonalization",
+      "path": "Eigenvalues and diagonalization.md"
     },
     {
       "basename": "Pipelined execution",
@@ -35,14 +59,6 @@
     {
       "basename": "Information Security",
       "path": "Information Security.md"
-    },
-    {
-      "basename": "Graph theory",
-      "path": "Graph theory.md"
-    },
-    {
-      "basename": "_MATH240",
-      "path": "_MATH240.md"
     },
     {
       "basename": "Recurrence relations",
@@ -109,20 +125,12 @@
       "path": "Systems of Linear Equations.md"
     },
     {
-      "basename": "_MATH223",
-      "path": "_MATH223.md"
-    },
-    {
       "basename": "Vector spaces",
       "path": "Vector spaces.md"
     },
     {
       "basename": "Complex numbers",
       "path": "Complex numbers.md"
-    },
-    {
-      "basename": "Eigenvalues and diagonalization",
-      "path": "Eigenvalues and diagonalization.md"
     },
     {
       "basename": "Inner product spaces",
@@ -163,10 +171,6 @@
     {
       "basename": "Cache",
       "path": "Cache.md"
-    },
-    {
-      "basename": "IO interrupts",
-      "path": "IO interrupts.md"
     },
     {
       "basename": "Linker",
