@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fc54e4938cad25fb",
+        "id": "d82626f9251afc40",
         "type": "split",
         "children": [
           {
@@ -62,11 +62,11 @@
             "currentTab": 1
           },
           {
-            "id": "8e2d0dc7a2be3f67",
+            "id": "d302212c7df9c9cc",
             "type": "tabs",
             "children": [
               {
-                "id": "8ba088d47fbfe420",
+                "id": "3e1f17889f6c1650",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -100,7 +100,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe - git  add ."
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
                 }
               }
             ]
@@ -324,7 +324,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5922097170235432,
+                  "scale": 0.444779824238657,
                   "close": true
                 }
               },
@@ -353,20 +353,18 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "terminal:Open terminal": false
     }
   },
-  "active": "8ba088d47fbfe420",
+  "active": "3e1f17889f6c1650",
   "lastOpenFiles": [
     "Graph theory.md",
+    "__courses.md",
     "Procedures.md",
     "_COMP273.md",
     "Control.md",
     "IO interrupts.md",
     "_MATH240.md",
-    "__courses.md",
     "Virtual memory.md",
     "_MATH223.md",
     "Eigenvalues and diagonalization.md",
@@ -405,4 +403,6 @@
     "assets/Introduction to computer systems",
     "assets/Simple linear regression",
     "assets/Statistical analysis",
-    "assets/Vector ge
+    "assets/Vector geometry"
+  ]
+}

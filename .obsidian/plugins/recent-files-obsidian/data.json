@@ -5,6 +5,10 @@
       "path": "Graph theory.md"
     },
     {
+      "basename": "__courses",
+      "path": "__courses.md"
+    },
+    {
       "basename": "Procedures",
       "path": "Procedures.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "_MATH240",
       "path": "_MATH240.md"
-    },
-    {
-      "basename": "__courses",
-      "path": "__courses.md"
     },
     {
       "basename": "Virtual memory",

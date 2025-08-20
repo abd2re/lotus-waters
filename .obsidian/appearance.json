@@ -1,14 +1,17 @@
 {
   "accentColor": "",
-  "cssTheme": "Tom's Theme",
+  "cssTheme": "Shade Sanctuary",
   "textFontFamily": "CMU Serif",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "img",
-    "export",
+    "terminal",
     "custom_frames",
-    "terminal"
+    "export",
+    "Animations and Background",
+    "Colored Sidebar Items",
+    "Hoverable Dropdown"
   ],
   "interfaceFontFamily": "Fira Code"
 }
