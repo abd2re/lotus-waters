@@ -8,5 +8,10 @@
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sapphire",
   "colorthemes@@color-intensity": "intensity-twilight",
   "sanctum@@color-accent-rgb-l": "92, 153, 124",
-  "sanctum@@color-accent-rgb-d": "165, 119, 218"
+  "sanctum@@color-accent-rgb-d": "165, 119, 218",
+  "colorthemes@@main-color": "indigo-harmony",
+  "colorthemes@@font-text": "CMU Serif",
+  "colorthemes@@font-interface-theme": "Fira Code",
+  "colorthemes@@font-monospace-theme": "Fira Code",
+  "colorthemes@@font-callout-theme": "CMU Serif"
 }

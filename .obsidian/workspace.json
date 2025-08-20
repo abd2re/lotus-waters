@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d82626f9251afc40",
+        "id": "380b446f3ff52a00",
         "type": "split",
         "children": [
           {
@@ -62,11 +62,11 @@
             "currentTab": 1
           },
           {
-            "id": "d302212c7df9c9cc",
+            "id": "9d56f4427aed163f",
             "type": "tabs",
             "children": [
               {
-                "id": "3e1f17889f6c1650",
+                "id": "c5afa97b0d9a4eb5",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -100,7 +100,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe - git  add ."
                 }
               }
             ]
@@ -195,7 +195,7 @@
         "dimension": 57.21153846153846,
         "children": [
           {
-            "id": "6f77eca3c8e9d8b0",
+            "id": "25b5b4cc092fa04b",
             "type": "leaf",
             "state": {
               "type": "custom-frames-todoist",
@@ -229,12 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procedures.md",
+                "file": "Graph theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Procedures"
+              "title": "Outgoing links from Graph theory"
             }
           },
           {
@@ -244,7 +244,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -256,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment 2 COMP273.md",
+                "file": "Graph theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment 2 COMP273"
+              "title": "Outline of Graph theory"
             }
           },
           {
@@ -324,7 +326,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.444779824238657,
+                  "scale": 0.5162156967056647,
                   "close": true
                 }
               },
@@ -356,11 +358,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3e1f17889f6c1650",
+  "active": "c5afa97b0d9a4eb5",
   "lastOpenFiles": [
     "Graph theory.md",
-    "__courses.md",
     "Procedures.md",
+    "__courses.md",
     "_COMP273.md",
     "Control.md",
     "IO interrupts.md",
@@ -403,6 +405,4 @@
     "assets/Introduction to computer systems",
     "assets/Simple linear regression",
     "assets/Statistical analysis",
-    "assets/Vector geometry"
-  ]
-}
+    "assets/Vector ge

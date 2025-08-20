@@ -1,6 +1,6 @@
 /* 🌙 Dark mode */
 .theme-dark .view-content.custom-frames-view iframe {
-    filter: invert(1) contrast(0.9) brightness(1.1);
+    filter: invert(1);
     mix-blend-mode: screen;
 }
 
