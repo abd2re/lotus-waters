@@ -21,8 +21,8 @@
       "platforms": {
         "win32": true
       },
-      "pythonExecutable": "python3",
-      "restoreHistory": false,
+      "pythonExecutable": "",
+      "restoreHistory": true,
       "successExitCodes": [
         "0",
         "SIGINT",

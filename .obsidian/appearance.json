@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Shade Sanctuary",
   "textFontFamily": "CMU Serif",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "img",
@@ -13,5 +13,6 @@
     "Colored Sidebar Items",
     "Hoverable Dropdown"
   ],
-  "interfaceFontFamily": "Fira Code"
+  "interfaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
 }
