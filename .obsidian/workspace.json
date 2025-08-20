@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "616a67a1692f626d",
+        "id": "8d2e495c780ee256",
         "type": "split",
         "children": [
           {
@@ -61,11 +61,11 @@
             ]
           },
           {
-            "id": "13a9a373587a1fe7",
+            "id": "d18ef4eb6553d876",
             "type": "tabs",
             "children": [
               {
-                "id": "dbdb62e28211ea50",
+                "id": "2e205bb18fe2a30b",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -96,7 +96,7 @@
                       },
                       "serial": {
                         "columns": 143,
-                        "data": "Microsoft Windows [Version 10.0.19045.6216]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . % git commit -m \"update\" & git push origi\r\nn \r\nerror: unknown switch `m'\r\nusage: git add [<options>] [--] <pathspec>...\r\n\r\n    -n, --[no-]dry-run    dry run\r\n    -v, --[no-]verbose    be verbose\r\n\r\n    -i, --[no-]interactive\r\n                          interactive picking\r\n    -p, --[no-]patch      select hunks interactively\r\n    -e, --[no-]edit       edit current diff and apply\r\n    -f, --[no-]force      allow adding otherwise ignored files\r\n    -u, --[no-]update     update tracked files\r\n    --[no-]renormalize    renormalize EOL of tracked files (implies -u)\r\n    -N, --[no-]intent-to-add\r\n                          record only the fact that the path will be added later     \r\n    -A, --[no-]all        add changes from all tracked and untracked files\r\n    --[no-]ignore-removal ignore paths removed in the working tree (same as --no-all)\r\n    --[no-]refresh        don't add, only refresh the index\r\n    --[no-]ignore-errors  just skip files which cannot be added because of errors    \r\n    --[no-]ignore-missing check if - even missing - files are ignored in dry run     \r\n    --[no-]sparse         allow updating entries outside of the sparse-checkout cone \r\n    --[no-]chmod (+|-)x   override the executable bit of the listed files\r\n    --[no-]pathspec-from-file <file>\r\n                          read pathspec from file\r\n    --[no-]pathspec-file-nul\r\n                          with --pathspec-from-file, pathspec elements are separated with NUL character\r\n\r\nEverything up-to-date\r\n\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . % git commit -m \"update\" & git push origi\r\nn\r\n\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . % git commit -m \"update\" & git push origi\r\nn\r\n\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . % git commit -m \"update\" & git push origi\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . %git commit -m \"update\" & git push origin\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . git commit -m \"update\" & git push origin \r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . &git commit -m \"update\" & git push origin\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . & git commit -m \"update\" & git push origi\r\nn\u001b[80C",
+                        "data": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nG:\\My Drive\\obsidian data\\synced\\virtual plaza 3.0\\virtual plaza 3.0>git add . & git commit -m \"fixed custome frames\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[14A\u001b[117C",
                         "rows": 16
                       }
                     }
@@ -214,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graph theory"
+              "title": "Backlinks"
             }
           },
           {
@@ -330,7 +329,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7588058803620383,
+                  "scale": 0.529583899563994,
                   "close": true
                 }
               },
@@ -362,7 +361,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "dbdb62e28211ea50",
+  "active": "2e205bb18fe2a30b",
   "lastOpenFiles": [
     "__courses.md",
     "Graph theory.md",

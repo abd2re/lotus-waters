@@ -1,12 +1,5 @@
-/* 🌙 Dark mode */
-.theme-dark .view-content.custom-frames-view iframe {
-    filter: invert(1);
-    mix-blend-mode: screen;
-}
-
-/* ☀️ Light mode */
-.theme-light .view-content.custom-frames-view iframe {
-    mix-blend-mode: darken;
+.view-content {
+    background-color: var(--background-primary) !important;
 }
 
 /* 🌙 Dark mode */
